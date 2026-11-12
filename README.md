@@ -1,5 +1,7 @@
 # Test
+API Key: Vu2k4N2B2SYlAHAbt92Ej4nK9P6hiGJwpspdA1sLSpxr8fbWAJmxG7KxQe5gGjMO
 
+Secret Key: NYLmUqXaEd2nFPO3KEp0Ozn8GX01iLO8e3TnRVeOQRus9ibt27SbGQ4I4GTxNAVq
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 22.2.6.
 
 ## Development server
